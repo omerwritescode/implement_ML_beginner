@@ -1,3 +1,5 @@
+# Implementing ML in Python (sample)
+
 This is a dummy project file showcasing the implementation of select machine learning models using Python.
 The respective jupyter and CSV files have been pushed (uploaded) in this repository.
 
